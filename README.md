@@ -8,6 +8,4 @@ Se debe utilizar este patrón cuando:
 
 •	Una familia de productos relacionados están hechos para utilizarse juntos.
 
-https://raw.githubusercontent.com/Katherine856/Abstract-Factory/master/1.png
-
-Lo que se traduce en esta imagen:
+![1](https://user-images.githubusercontent.com/54810355/82718179-87f81080-9c66-11ea-9771-5a7a3eebe440.PNG)
