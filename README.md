@@ -8,6 +8,6 @@ Se debe utilizar este patrón cuando:
 
 •	Una familia de productos relacionados están hechos para utilizarse juntos.
 
-https://raw.githubusercontent.com/Katherine856/Abstract-Factory/master/assets/1.png
+https://raw.githubusercontent.com/Katherine856/Abstract-Factory/master/1.png
 
 Lo que se traduce en esta imagen:
